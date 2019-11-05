@@ -1,0 +1,22 @@
+html {
+    background-color: black;
+}
+a {
+    display: inline-block;
+    background-color: white;
+    border-style: double;
+    color: red;
+    font-size: 30px;
+}
+#Naam{
+    font-size: 50px;
+    color: white;
+}
+h1 {
+    font-size: 20px;
+    color: red;
+}
+main {
+    color: red;
+    font-size: 20px;
+}
